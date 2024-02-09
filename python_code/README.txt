@@ -1,0 +1,2 @@
+The Jupyter notebook file, segm.ipynb, is used for generating probability maps and binary masks (cell segmentations) using the pre-trained weight model. Data generated in this paper used model_PAO1.hdf5 as the model. To run segm.ipynb, a suitable Python environment is required, and one such working environment can be created in Conda based on spec-file.txt. 
+Other required python functions were previously published [ref.41] which are publicly available on Github (https://github.com/lanbowen23/cell_seg). 
